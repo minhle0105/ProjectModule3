@@ -575,6 +575,43 @@
                 </a>
             </div>
         </div>
+        <div class="col-md-2">
+            <div style="color: white">
+                <h5>CHÍNH SÁCH</h5>
+                <a href="">
+                    <p>Khách hàng thân thiết</p>
+                </a>
+                <a href="">
+                    <p>Điều khoản sử dụng</p>
+                </a>
+                <a href="">
+                    <p>Thanh toán-Vận chuyển</p>
+                </a>
+                <a href="">
+                    <p>Bảo hành trọn đời</p>
+                </a>
+                <a href="">
+                    <p>Chính sách bảo mật</p>
+                </a>
+                <a href="">
+                    <p>Chính sách đổi sản phẩm</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div style="color: white">
+                <h5>HƯỚNG DẪN</h5>
+                <a href="">
+                    <p>Hướng dẫn mua hàng</p>
+                </a>
+                <a href="">
+                    <p>Hướng dẫn chọn size</p>
+                </a>
+                <a href="">
+                    <p>Hướng dẫn tạo tài khoản</p>
+                </a>
+            </div>
+        </div>
     </div>
 </div>
 </body>
