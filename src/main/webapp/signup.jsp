@@ -36,7 +36,7 @@
                        placeholder="Email">
             </div>
             <a class="btn btn-danger" href="signup2.jsp" style="width: 300px">Bước tiếp theo</a><br>
-            <a href="login.jsp" class="btn btn-link" style="margin-left: 15%">Quay về trang đăng nhập</>
+            <a href="login.jsp" class="btn btn-link" style="margin-left: 15%">Quay về trang đăng nhập</a>
         </form>
     </div>
 </div>
